@@ -13,6 +13,7 @@
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=Markdown&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></a>
+  <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"></a>
 </p>
 
 ### 🧰 프레임워크 & 라이브러리
@@ -28,6 +29,7 @@
 
 <p>
   <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white"></a>
+  <a href="#"><img alt="mySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white"></a>
 </p>
 
@@ -38,5 +40,7 @@
   <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000?logo=CodePen&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
+  <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
 </p>
