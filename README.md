@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/KimHyunLo/KimHyunLo/blob/main/banner.png" />
+  <img src="https://github.com/KimHyunLo/KimHyunLo/blob/main/banner.jpg" />
   <h1>안녕하세요! 인생은 Henry처럼, Henry입니다 👋</h1>
   
   ### 💻 Web Tech
